@@ -1,52 +1,62 @@
-# Hi, I'm Deolinda Bio Bogore
+<p align="center">
+  <img src="./assets/profile-banner.png" alt="Illustration of a software engineer working across AI, health data, and connected systems" width="100%" />
+</p>
 
-**Software Engineer | Machine Learning Practitioner | AI for Science**
+<h1 align="center">Deolinda Bio Bogore</h1>
 
-I build data-driven and AI-enabled systems across healthcare, analytics, and backend engineering. I am a Software Engineering graduate from African Leadership University, currently based in Kigali, Rwanda, and originally from Benin.
+<p align="center">
+  <strong>Software Engineer · Machine Learning Practitioner · AI for Science</strong>
+</p>
 
-My work combines machine learning, backend APIs, data pipelines, and user-facing applications. I am especially interested in responsible AI for healthcare, secure data systems, and technologies designed around African contexts.
+<p align="center">
+  I build reliable software and responsible AI systems that turn complex data into useful decisions.
+</p>
 
-## What I Work On
+<p align="center">
+  <a href="https://www.linkedin.com/in/deolinda-bio-bogore-589b06283/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Deolinda-Bogore">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-AI%20for%20Health-00897B?style=flat-square" alt="Focus: AI for Health" />
+</p>
 
-- Machine learning and computer vision for health applications
-- Backend APIs, data pipelines, and relational data systems
-- Full-stack tools that turn operational data into useful decisions
-- Systems programming, networking, testing, and reliable software delivery
+## About Me
 
-## Featured Projects
+I work at the intersection of **software engineering, machine learning, and data systems**. My projects span healthcare AI, analytics platforms, backend APIs, networking, and tools that make operational information easier to understand and act on.
 
-| Project | What I built | Technologies |
+I am particularly interested in AI for science and healthcare intelligence: systems built with locally relevant data, evaluated responsibly, and designed to remain understandable and useful to practitioners.
+
+## Selected Work
+
+| Project | Overview | Stack |
 | --- | --- | --- |
-| [CarotidCheck](https://github.com/Deolinda-Bogore/Capstone-project) | An AI-assisted carotid ultrasound system for stroke-risk screening, with segmentation models, a FastAPI backend, a Flutter application, and a clinical dashboard. | Python, TensorFlow, FastAPI, Flutter, React |
-| [MDFC ProjTrack](https://github.com/Deolinda-Bogore/mdfc-projtrack) | A role-based project and requisition management system that translates spreadsheet and document workflows into structured approvals, reporting, and accountability. | JavaScript, React, Vite, REST APIs |
-| [Personal Wellbeing Time-Series Monitor](https://github.com/Deolinda-Bogore/personal-wellbeing-time-series-monitor) | A digital-health research prototype for tracking wellbeing signals, calculating domain scores, and explaining changes over time. | Python, Pandas, Jupyter, Time Series |
-| [TCP File Transfer System](https://github.com/Deolinda-Bogore/tcp-file-transfer-c) | A multi-client file-transfer system with a custom TCP protocol, POSIX threads, integrity checks, defensive validation, and server logging. | C, TCP Sockets, POSIX Threads |
-| [Glaucoma Detection System](https://github.com/Deolinda-Bogore/ml) | An end-to-end retinal-image classification pipeline with model training, API inference, monitoring, and a Streamlit interface. | Python, TensorFlow, FastAPI, Streamlit |
-| [FemInsight](https://github.com/Deolinda-Bogore/FemInsight-GPT2) | A women's-health educational chatbot created by fine-tuning GPT-2 on domain-specific question-and-answer data. | Python, PyTorch, Transformers, Gradio |
+| **[CarotidCheck](https://github.com/Deolinda-Bogore/Capstone-project)** | AI-assisted carotid ultrasound analysis for stroke-risk screening, connecting segmentation models to an inference API and clinical interfaces. | Python, TensorFlow, FastAPI, Flutter, React |
+| **[MDFC ProjTrack](https://github.com/Deolinda-Bogore/mdfc-projtrack)** | Role-based project and requisition management that turns fragmented spreadsheet and document workflows into structured approvals and reporting. | JavaScript, React, Vite, REST APIs |
+| **[Personal Wellbeing Monitor](https://github.com/Deolinda-Bogore/personal-wellbeing-time-series-monitor)** | Digital-health research prototype for tracking wellbeing signals, calculating domain scores, and explaining changes over time. | Python, Pandas, Jupyter, Time Series |
+| **[TCP File Transfer System](https://github.com/Deolinda-Bogore/tcp-file-transfer-c)** | Multi-client file transfer over a custom TCP protocol with concurrency, integrity checks, defensive validation, and server logging. | C, TCP Sockets, POSIX Threads |
+| **[Glaucoma Detection](https://github.com/Deolinda-Bogore/ml)** | End-to-end retinal-image classification pipeline with model training, API inference, monitoring, and an interactive interface. | Python, TensorFlow, FastAPI, Streamlit |
+| **[FemInsight](https://github.com/Deolinda-Bogore/FemInsight-GPT2)** | Women's-health educational assistant developed by fine-tuning GPT-2 on domain-specific question-and-answer data. | Python, PyTorch, Transformers, Gradio |
 
-## Technical Toolkit
+## Toolkit
 
-**Languages**  
-Python · JavaScript · C · SQL · Dart · R
+| Area | Technologies |
+| --- | --- |
+| **Languages** | Python, JavaScript, C, SQL, Dart, R |
+| **Backend & Data** | FastAPI, Django, PostgreSQL, RabbitMQ, REST APIs, Pandas, NumPy |
+| **Machine Learning** | PyTorch, TensorFlow, Keras, Scikit-learn, Hugging Face Transformers, OpenCV |
+| **Frontend & Infrastructure** | React, Flutter, Docker, Git, GitHub, AWS |
 
-**Backend and data**  
-FastAPI · Django · PostgreSQL · RabbitMQ · REST APIs · Pandas · NumPy
+## What I Care About
 
-**Machine learning**  
-PyTorch · TensorFlow · Keras · Scikit-learn · Hugging Face Transformers · OpenCV
-
-**Frontend and infrastructure**  
-React · Flutter · Docker · Git · GitHub · AWS
-
-## Current Direction
-
-I am continuing to deepen my work in AI for science and healthcare intelligence. I want to build responsible decision-support systems that use locally relevant data, remain understandable to practitioners, and work reliably in resource-constrained environments.
-
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Deolinda%20Bio%20Bogore-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deolinda-bio-bogore-589b06283/)
-[![GitHub](https://img.shields.io/badge/GitHub-Deolinda--Bogore-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Deolinda-Bogore)
+- Building healthcare decision-support tools that address real clinical needs
+- Developing secure, reliable systems for sensitive and high-impact data
+- Making AI evaluation transparent and useful beyond model accuracy
+- Expanding access to technical knowledge and opportunity across African communities
 
 ---
 
-<sub>Open to research collaborations and engineering opportunities involving applied machine learning, health technology, data systems, and AI for science.</sub>
+<p align="center">
+  <strong>Open to research collaborations and engineering opportunities in applied machine learning, health technology, data systems, and AI for science.</strong>
+</p>
