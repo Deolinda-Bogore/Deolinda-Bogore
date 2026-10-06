@@ -14,12 +14,12 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/deolinda-bio-bogore-589b06283/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Deolinda-Bogore">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <img src="https://img.shields.io/badge/Focus-AI%20for%20Health-00897B?style=flat-square" alt="Focus: AI for Health" />
+  <img src="https://img.shields.io/badge/Focus-AI%20for%20Health-00897B?style=for-the-badge&logoColor=white" alt="Focus: AI for Health" />
 </p>
 
 ## About Me
@@ -30,23 +30,87 @@ I am particularly interested in AI for science and healthcare intelligence: syst
 
 ## Selected Work
 
-| Project | Overview | Stack |
-| --- | --- | --- |
-| **[CarotidCheck](https://github.com/Deolinda-Bogore/Capstone-project)** | AI-assisted carotid ultrasound analysis for stroke-risk screening, connecting segmentation models to an inference API and clinical interfaces. | Python, TensorFlow, FastAPI, Flutter, React |
-| **[MDFC ProjTrack](https://github.com/Deolinda-Bogore/mdfc-projtrack)** | Role-based project and requisition management that turns fragmented spreadsheet and document workflows into structured approvals and reporting. | JavaScript, React, Vite, REST APIs |
-| **[Personal Wellbeing Monitor](https://github.com/Deolinda-Bogore/personal-wellbeing-time-series-monitor)** | Digital-health research prototype for tracking wellbeing signals, calculating domain scores, and explaining changes over time. | Python, Pandas, Jupyter, Time Series |
-| **[TCP File Transfer System](https://github.com/Deolinda-Bogore/tcp-file-transfer-c)** | Multi-client file transfer over a custom TCP protocol with concurrency, integrity checks, defensive validation, and server logging. | C, TCP Sockets, POSIX Threads |
-| **[Glaucoma Detection](https://github.com/Deolinda-Bogore/ml)** | End-to-end retinal-image classification pipeline with model training, API inference, monitoring, and an interactive interface. | Python, TensorFlow, FastAPI, Streamlit |
-| **[FemInsight](https://github.com/Deolinda-Bogore/FemInsight-GPT2)** | Women's-health educational assistant developed by fine-tuning GPT-2 on domain-specific question-and-answer data. | Python, PyTorch, Transformers, Gradio |
+### [CarotidCheck](https://github.com/Deolinda-Bogore/Capstone-project)
+
+AI-assisted carotid ultrasound analysis for stroke-risk screening, connecting segmentation models to an inference API and clinical interfaces.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+### [MDFC ProjTrack](https://github.com/Deolinda-Bogore/mdfc-projtrack)
+
+Role-based project and requisition management that turns fragmented spreadsheet and document workflows into structured approvals and reporting.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-E85D3F?style=flat-square)
+
+### [Personal Wellbeing Monitor](https://github.com/Deolinda-Bogore/personal-wellbeing-time-series-monitor)
+
+Digital-health research prototype for tracking wellbeing signals, calculating domain scores, and explaining changes over time.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Time Series](https://img.shields.io/badge/Time-Series-00897B?style=flat-square)
+
+### [TCP File Transfer System](https://github.com/Deolinda-Bogore/tcp-file-transfer-c)
+
+Multi-client file transfer over a custom TCP protocol with concurrency, integrity checks, defensive validation, and server logging.
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=111111)
+![TCP](https://img.shields.io/badge/TCP-Sockets-0A66C2?style=flat-square)
+![POSIX](https://img.shields.io/badge/POSIX-Threads-333333?style=flat-square)
+
+<details>
+<summary><strong>More projects</strong></summary>
+
+### [Glaucoma Detection](https://github.com/Deolinda-Bogore/ml)
+
+End-to-end retinal-image classification pipeline with model training, API inference, monitoring, and an interactive interface.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+### [FemInsight](https://github.com/Deolinda-Bogore/FemInsight-GPT2)
+
+Women's-health educational assistant developed by fine-tuning GPT-2 on domain-specific question-and-answer data.
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/Hugging%20Face-Transformers-FFD21E?style=flat-square)
+![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat-square&logo=gradio&logoColor=white)
+
+</details>
 
 ## Toolkit
 
-| Area | Technologies |
-| --- | --- |
-| **Languages** | Python, JavaScript, C, SQL, Dart, R |
-| **Backend & Data** | FastAPI, Django, PostgreSQL, RabbitMQ, REST APIs, Pandas, NumPy |
-| **Machine Learning** | PyTorch, TensorFlow, Keras, Scikit-learn, Hugging Face Transformers, OpenCV |
-| **Frontend & Infrastructure** | React, Flutter, Docker, Git, GitHub, AWS |
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=111111" alt="C" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+</p>
 
 ## What I Care About
 
